@@ -1,5 +1,5 @@
 import html
-from dash import Dash, dcc, html, Input, Output
+from dash import dcc, html
 
 my_dash_layout = html.Div(
     [
@@ -20,7 +20,7 @@ my_dash_layout = html.Div(
                             style={
                                 "backgroundColor": "rgba(0,0,0,0.8)",
                                 "color": "white",
-                            },
+                            },                           
                         ),
                     ],
                     style={
