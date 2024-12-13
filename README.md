@@ -1,9 +1,8 @@
-# Interaktywny dashboard w oparciu o Plotly Dash, umożliwiający analizę danych dotyczących pingwinów zgodnie z wymaganiami biznesowymi, w tym filtrowanie po gatunku, płci i parametrze.
+# Interactive dashboard based on Plotly Dash, enabling analysis of penguin data according to business requirements, including filtering by species, sex and parameter.
 
-## Aby obsłuzyc dashboard nalezy:
+## To use the dashboard:
 
-- zainstalować wymagane biblioteki `pip install -r requirements.txt`
-- uruchomić aplikację `python penguins_app.py`
-  
+- install required libraries `pip install -r requirements.txt`
+- run the application `python penguins_app.py`
 
 
