@@ -65,35 +65,18 @@ label {
     }
 }
 
-/* Styl dla dropdown menus */
-.dash-dropdown {
-    background-color: rgba(35, 35, 249, 0.5) !important;
-    color: white !important;
-}
-
-/* Styl dla wykresów */
 .dash-graph {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
 }
-/* Dropdown menu items */
+
 .VirtualizedSelectOption {
-    background-color: rgba(0, 0, 0, 0.8) !important; /* Ciemne tło */
-    color: white !important; /* Biały tekst */
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
 }
 
-.VirtualizedSelectFocusedOption {
-    background-color: rgba(50, 50, 50, 0.9) !important; /* Tło pozycji po najechaniu myszą */
-    color: white !important; /* Biały tekst */
-}
-/* Styl tekstu w wybranym polu dropdown */
-.Select--single > .Select-control .Select-value {
-    color: white !important; /* Biały tekst */
-}
-
-/* Zmiana koloru tekstu w wybranym elemencie dropdown */
 .Select-value-label {
-    color: white !important; /* Biały tekst dla wybranego elementu */
+    color: white !important;
 }
